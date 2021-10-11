@@ -1,0 +1,29 @@
+.wrapper .main_content form{
+	width: 100%;
+	margin: 0 auto;
+	border: 2px solid #ccc;
+	padding: 30px;
+	padding-bottom:50px;
+	background-color: Lightgrey;
+	border-radius:15px;
+}
+
+.wrapper .main_content .main_header h1{
+	text-transform: uppercase;
+
+	position : fixed;
+	margin-bottom: 5px;
+}
+
+.wrapper .main_content  h1{
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 50px;
+}
+.wrapper .main_content .alb img{
+	width:50%;
+	height:50%;
+}
+
+
+
